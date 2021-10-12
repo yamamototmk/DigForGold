@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="32" tileheight="32" infinite="0" nextlayerid="2" nextobjectid="1">
+ <editorsettings>
+  <export target="B14..tmx" format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" source="D:/Desktop/Tiled/MapChip_Test.tsx"/>
+ <layer id="1" name="タイル・レイヤー 1" width="8" height="8">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,13,0,
+0,0,9,4,4,10,0,0,
+0,13,3,9,10,3,0,0,
+0,0,3,3,3,3,13,0,
+0,0,17,17,11,12,0,0,
+0,0,0,13,0,0,0,0
+</data>
+ </layer>
+</map>
